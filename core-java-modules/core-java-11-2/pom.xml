@@ -112,7 +112,7 @@
         <commons-lang3.version>3.12.0</commons-lang3.version>
         <jakarta.ws-api.version>3.0.0</jakarta.ws-api.version>
         <jaxws-rt.version>3.0.0</jaxws-rt.version>
-        <jaxws-ri.version>2.3.1</jaxws-ri.version>
+        <jaxws-ri.version>2.3.6</jaxws-ri.version>
         <jaxws-maven-plugin.version>2.3.2</jaxws-maven-plugin.version>
     </properties>
 
