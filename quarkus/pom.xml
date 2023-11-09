@@ -156,7 +156,7 @@
     </profiles>
 
     <properties>
-        <quarkus.version>1.7.0.Final</quarkus.version>
+        <quarkus.version>3.2.8.Final</quarkus.version>
         <junit-jupiter.version>5.6.0</junit-jupiter.version>
     </properties>
 
